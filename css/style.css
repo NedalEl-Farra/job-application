@@ -1,0 +1,92 @@
+/*start global css*/
+a{
+	text-decoration:none;
+	
+
+	
+}
+
+.clear{
+	clear:both;
+}
+ul{
+	list-style-type:none;
+	
+}
+*{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style-type:none;
+}
+
+
+
+
+/*end global css*/
+.father{
+	width:656px;
+	height:800px;
+	background-color:#EEE;
+	margin:40px auto;
+
+}
+.first-part{
+	width:95.5%;
+	height:40px;
+	background-color:#ad2424;
+	color:white;
+	font-weight:bold;
+	font-size:35px;
+	padding-left:30px;
+	font-style:italic;
+}
+legend{
+	font-weight:bold;
+}
+.justify{
+	background-color:#fdf082;
+	height:120px;
+	padding-top:10px;
+	border-left:none;
+	border-right:none;
+	border-bottom:none;
+	margin-bottom:15px;
+	
+	
+	
+	
+}
+.name{
+	padding-top:50px;
+	
+}
+.justify inputs{
+	margin-right:10px;
+	
+	
+	
+}
+
+form{
+	margin:20px auto;
+	padding-left:50px;
+	padding-right:50px;
+	font-size:18px;
+}
+h1{
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+li{
+	margin-bottom:15px;
+}
+input [type='file']{
+	width:50px;
+	height:50px;
+	border-width:5px;
+}
+
+
